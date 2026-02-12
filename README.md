@@ -1,17 +1,21 @@
-# Rice-Leaf-Disease-Detection
-Rice Leaf Disease Detection using CNN  
-# Rice Leaf Disease Detection using CNN
+# Rice Leaf Disease Detection
 
-This project uses Convolutional Neural Networks (CNN) to detect and classify rice leaf diseases from images.
+##  Project Overview
+A deep learning-based image classification project to detect and classify rice leaf diseases from plant images.
 
-## Technologies Used
-- Python
-- TensorFlow / Keras
-- CNN
-- Image Processing
+##  Objectives
+- Identify disease categories from leaf images
+- Improve agricultural monitoring using AI
 
-## Project Objective
-To help in early detection of rice leaf diseases using AI and Deep Learning.
+##  Model Used
+Convolutional Neural Network (CNN)
 
-## Author
-Sri Ragavi
+##  Performance
+Model evaluated using accuracy and validation metrics.
+
+##  Technologies
+Python, TensorFlow/Keras, OpenCV, NumPy, Matplotlib, CNN, Image Processing
+
+##  Impact
+Supports early disease detection to improve crop productivity.
+
